@@ -1,2 +1,2 @@
-# Target-WITS
-Pitch materials for the 2022 Target Women in Tech Symposium
+# Target Women in Tech Symposium
+Pitch materials for the 2022 Target Women in Tech Symposium.
